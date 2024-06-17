@@ -1,5 +1,6 @@
 ## Hi there 👋
 # I am Krish Sharma
+Currently working on this page!
 
 <!--
 **krish-shar/krish-shar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 
 # 💫 About Me:
 - 🔭 I’m currently working on ...
